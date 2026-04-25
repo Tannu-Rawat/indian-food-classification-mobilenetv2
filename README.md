@@ -64,7 +64,8 @@ Indian cuisine is highly diverse and visually complex, making classification a c
 ## 📂 Dataset
 
 Multi-source Indian food dataset collected from public platforms (Kaggle, Hugging Face, etc.) and refined to 89 classes. 
-Email for Dataset. 
+Email for Dataset.
+
 ---
 
 ## ▶️ How to Run
